@@ -1,0 +1,488 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*---------------------------------nav1-------------------------------*/
+.nav1
+{
+	height: 50px;
+/*	width: 100%;*/
+	background: #40b554;
+	border: 1px solid;
+}
+.menubar1
+{
+	display: grid;
+	grid-template-columns: 1fr 2fr 2fr 5fr;
+}
+.menu1
+{
+	height: 50px;
+	border: 1px solid black;
+	list-style: none;
+	text-align: center;
+	line-height: 50px;
+	color: white;
+}
+.social
+{
+	display: grid;
+	list-style: none;
+	margin-right: 50px;
+	grid-template-columns: 15fr 1fr 1fr 1fr 1fr;
+}
+.social .icon1
+{
+	height: 40px;
+	width: 40px;
+	font-size: 25px;
+/*	border: 1px solid;*/
+	padding-right: 5px;
+	border-radius: 50%;
+/*	background: white;*/
+}
+
+
+/*------------------------Nav2 start-------------------*/
+.nav2
+{
+	height: 70px;
+	width: 100%;
+	border: 1px solid;
+	display: grid;
+	grid-template-columns:2fr 5fr 2fr ;
+}
+.logo
+{
+	padding-left: 90px;
+	padding-top: 15px;
+	border: 1px solid;
+}
+.navbar
+{
+
+	border: 1px solid;
+}
+.nav-menu2
+{
+	height: 70px;
+	display:grid;
+	grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	list-style: none;
+}
+.navbar .blank2
+{
+	border: 1px solid;
+}
+.navbar .menu2
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 70px;
+	border: 1px solid;
+	font-weight: bolder;
+}
+button
+{
+	height: 50px;
+	width: 200px;
+	border-radius: 25px;
+	margin-top: 8px;
+	margin-left: 5px;
+	font-size: 15px;
+	border: 1px solid;
+	background:#40b554;
+	color: white;
+}
+.jpg
+{
+	
+
+}
+
+
+/*-------------------------Nav2 End----------------------*/
+
+/*---------------------slider start---------------------*/
+.slider
+{
+	height: 500px;
+	width: 100%;
+	border: 2px solid;
+
+	background:url(C:/Users/admin/Desktop/Ravi_Github/hydropokit/image/close-up-view-hands-of-farmer-picking-lettuce-in-hydroponic-greenhouse-.jpg);  
+	background-size: 100% 100%;
+	  
+}
+
+.slider-info
+{
+	height: 300px;
+	width: 45%;
+	border: 1px solid;
+	margin: 100px auto;
+}
+
+/*-----------------------Slider End----------------------*/
+
+.Hyd
+{
+	text-align: center;
+	font-size: 49px;
+	color: white;
+}
+.Diam
+{
+	text-align: center;
+	color: white;
+}
+.GET
+{
+	margin-left: 80PX;
+	margin-top: 30PX;
+}
+
+.LEARN
+{
+	background-color: white;
+	color: green;
+}
+.GET:hover
+{
+	background-color:yellowgreen;
+}
+.LEARN:hover
+{
+	background-color:yellowgreen;
+}
+.MAIN-DIV
+{
+	height: 300pX;
+	width:auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr ;
+	margin-left: 150PX;
+	margin-top: -50px;
+}
+.DIV1
+{
+	height:100PX;
+	width:100PX;
+	border-radius:50%;
+	color: green;
+	background-color:white;
+	margin-left:70px;
+}
+.DIV2
+{
+	height:100PX;
+	width: 100PX;
+	color: green;
+	border-radius:50%;
+	background-color:white;
+}
+.DIV3
+{
+	height:100PX;
+	width: 100PX;
+	color: green;
+	border-radius:50%;
+	background-color:white;
+}
+.DIV4
+{
+	height:100PX;
+	width: 100PX;
+	color: green;
+	border-radius:50%;
+	background-color:white;
+}
+.i1{
+	color: black;
+	margin-bottom: -7px;
+}
+ fa-tree
+{
+margin-left: 100px;
+}
+fa-solid fa-droplet
+{
+	font-size:100px;
+}
+fa-solid fa-hourglass-end
+{
+	font-weight: bolder;
+	margin-left: 10px
+}
+fa-solid fa-arrow-up-right-dots
+{
+
+}
+span
+{
+
+}
+.Greenfields
+{
+  height: 500px;
+  width: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.green
+{
+  font-size: 24px;
+}
+.WHO
+{
+	color: green;
+
+}
+.DISCOVER
+{
+  
+}
+.team
+{
+  height: 300px;
+  width: 500px;
+  border: 10px solid green;
+  margin-left: 60px;
+  border-radius:10px;
+}
+
+.Years
+{
+	height: 100px;
+     width: 100px;
+   	background-color: white;
+   color: green;
+  margin-left: 1150px;
+  margin-top:-540px;
+
+}
+.itv
+{
+ height: 300px;
+ width: auto;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ margin-top: 400px;
+ margin-left: 100px;
+
+
+}
+.Installation
+{
+  
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  box-shadow: 0px 0px 10px black;
+
+
+}
+.Training-Center
+{
+
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+}
+.Vegetable-Supplier
+{
+  
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+}
+.tree 
+{
+	height:70px;
+	width: 70px;
+	background-color: green;
+	padding: 27px;
+	border-radius: 500%;
+	margin-left: 65px;
+	color: white;
+}
+.tractor
+{
+	height:70px;
+	width: 70px;
+	background-color: white;
+	padding: 27px;
+	border-radius: 500%;
+	margin-left: 65px;
+	color: green;
+}
+.plant 
+{
+	height:70px;
+	width: 70px;
+	background-color: green;
+	padding: 27px;
+	border-radius: 500%;
+	margin-left: 65px;
+	color: white
+}
+.b 
+{
+	font-size: 19px;
+	text-align: center;
+	margin-left: 33px;
+}
+.lorem
+{
+	font-size: 27px;
+}
+.environment
+{
+	height: 300px;
+	width: auto;
+	padding: 100px 200px;
+	text-align: center;
+}
+.Greenhouse
+{
+	height: 400px;
+	width: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-left: 100px;
+	
+}
+.Greenhouse-Installation
+{
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 10px;
+}
+.Nutrient-Systems
+{
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 10px;
+}
+.Agriculture-Training
+{
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 10px;
+}
+.p
+{
+	height: 180px;
+	width: 300px;
+}
+.Greenhouse1
+{
+	margin-top: 50px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-left: 100px;
+}
+.map 
+{
+	margin-left: 150px;
+}
+.pop 
+{
+	height:100px;
+	width: 900px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	box-shadow: 0px 0px 10px black;
+	margin-left: 150px;
+	
+}
+.co
+{
+	height: 200px;
+
+}
+.excellent
+{
+	height: 500px;
+	width: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 100px;
+}
+.pic
+{
+	height: 500px;
+	width: 50%;
+
+
+}
+.pic1
+{
+	height: 400px;
+	width:400px;
+	box-shadow: -10px 15px 0px yellowgreen;
+	margin-left: 100px;
+}
+.i2main
+{
+	height: 100px;
+	width: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 70px;
+	
+}
+.Latest
+{
+	text-align: center;
+}
+
+.line 
+{
+	height:3px;
+	width:50px;
+	background-color:green;
+	margin-left: 600px;
+	margin-top: 10px;
+}
+.Sprayers
+{
+	height: 500px;
+	width: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	margin-top: 50px;
+
+}
+.card
+{
+	height:400px;
+	width:300px;
+	box-shadow: 0px 0px 10px black;
+	border-radius: 10px;
+}
+.img1
+{
+	height:200px;
+	width:300px;
+	border-radius: 10px;
+}
+
+.bak
+{
+	background: url(C:/Users/admin/Desktop/Ravi_Github/hydropokit/image/fresh-vegetable-sell-in-wet-market.jpg);
+	background-size: 100% 100%;
+	
+}

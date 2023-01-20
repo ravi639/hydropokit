@@ -1,0 +1,66 @@
+@media(max-width:500px)
+{
+	.menubar1{display:grid; grid-template-columns: 1fr; margin-top: -10px}
+	.menu1{line-height: 10PX; margin-top:-10PX; font-size: 9PX; margin-left:10PX; text-align: left;}
+	.social{display:none;}
+	.nav-menu2{display: none;}
+	button{display: none;}
+	.logo11{margin-left: 200px}
+	.slider{width: auto;}
+	.slider-info{width: auto;}
+	.Hyd{font-size: 30px}
+	.GET{margin-top: 10PX; margin-right:PX}
+	.MAIN-DIV{display: grid; grid-template-columns: 1fr 1fr}
+	.MAIN-DIV{display: grid; grid-template-columns: 1fr 1fr; margin-right: 1000px}
+	.Greenfields{display: grid; grid-template-columns: 1fr; font-size:20px}
+	.green{font-size: 12px}
+	.WHO{font-size:10px}
+	.DISCOVER{font-size: 10px}
+	.team{margin-left: 10px; width:450px}
+	.Years{margin-left:410px; margin-top:-380px}
+	.itv{display: grid; grid-template-columns: 1fr; margin-top:250px}
+	.Installation{height: 200px; width:450px; margin-left:-90PX;margin-top: 30px}
+	.Training-Center{height: 200px; width:450px; margin-left:-90PX; margin-top:10PX}
+	.Vegetable-Supplier{height: 200px; width:450px; margin-left:-90PX; margin-top: 10PX}
+	.tree{margin-left: 150PX}
+	.tractor{margin-left: 150PX}
+	.plant{margin-left: 150PX}
+	.b{margin-left: 150PX; margin-top:-100px }
+	.lorem{font-size: 20px}
+	.Greenhouse{display: grid; grid-template-columns:1fr;}
+	.slider11{width: auto; margin-top: 350px}
+	.slider-info11{width: auto;}
+	.DISCOVER{margin-left: 10px ; font-size:9px}
+	.Greenhouse-Installation{height:100px; width:450; margin-left:-80px ; margin-top: 100px}
+	.environment{height:100px; width: 430px; font-size: 10px}
+	.Greenhouse-Installation{height:150px; width:450px; margin-top: 300px; margin-left:-80px}
+	.Nutrient-Systems{height: 150px; width:450px; margin-top: 350px; margin-left:-80px}
+	.Agriculture-Training{height: 150px; width:450px; margin-top: 320px; margin-left:-80px}
+	.Greenhouse1{display: grid; grid-template-columns:1fr}
+	.Greenhouse-Installation1{height:150px; width:450px; margin-top: 100px ; margin-left:-80px}
+	.Nutrient-Systems1{height: 150px; width:450px; margin-top: 300px; margin-left:-80px}
+	.Agriculture-Training1{height: 150px; width:450px; margin-top: 100px; margin-left:-80px}
+	.p{height:100px; width:450px}
+	.img1{width: 450px}
+	.map {margin-top:200px ;width: 400px; margin-left:10px}
+	.pop{display: grid; grid-template-columns: 1fr 1fr; width:300px }
+	.slider111{width: auto; margin-top: 350px}
+	.slider-info111{width: auto;}
+	.pic1{margin-top:50px ;margin-left:20PX; height: 150PX}
+	.i2main{display: grid; grid-template-columns: 1fr; margin-top:40px; margin-left:-200px}
+	.Sprayers{display: grid; grid-template-columns: 1fr; width:400px; height:200px; margin-top: 30PX}
+	.card{margin-bottom:30px; height:400PX; width: 450PX}
+	.bak{margin-top:1500PX; height:200PX}
+	.farmer{display: grid; grid-template-columns: 1fr;margin-top: 100PX}
+	.logomain{display: grid; grid-template-columns: 1fr 1fr; margin-top:10PX}
+	.matt{margin-top:50PX; height: 100PX}
+	.Company{height:100PX ;margin-top:-440PX; margin-left:200PX}
+	.end-div{display: grid; grid-template-columns: 1fr; margin-top: 100PX; height:1000PX}
+	.Newsletter{margin-top:-200PX}
+	.email{width: 450PX}
+	.slider111{width: auto; margin-top: 200px; height:300px}
+	.slider-info111{width: auto;}
+	.WHY{font-size: 7PX; margin-left:-500PX}
+	.Latest{margin-top:-280PX}
+
+}
